@@ -1,5 +1,6 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lokeshzz7&label=Profile%20views&color=0e75b6&style=flat" alt="lokeshzz7" /> </p>
+### Hey ther 👋
 
+![](https://komarev.com/ghpvc/?username=lokeshzz7&style=for-the-badge&color=orange&base=178)
 <h3 align="left">Network:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/lokesh-waran-26b999268" target="blank">
