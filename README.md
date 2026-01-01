@@ -1,10 +1,3 @@
-<h1 align="center">🚀 Hell-o, I'm Lokeshwaran R!</h1>
-<h3 align="center">AI/ML Enthusiast | Full Stack Developer | Transforming Ideas into Code</h3>
-
-<p align="center">
-  I like to think of myself as a code wizard 🧙‍♂️ who turns ideas into smart, scalable applications. Whether it's building cutting-edge AI/ML models, optimizing systems for performance, or competing in hackathon challenges, I'm all in!
-</p>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lokeshzz7&label=Profile%20views&color=0e75b6&style=flat" alt="lokeshzz7" /> </p>
 
 <h3 align="left">Network:</h3>
@@ -17,7 +10,7 @@
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<!-- <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
@@ -64,7 +57,7 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-</p>
+</p> -->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lokeshzz7&show_icons=true&locale=en&layout=compact" alt="lokeshzz7" /></p>
 
